@@ -1,6 +1,6 @@
 # make_your_burger
 
-A new Flutter project.
+A simple fun app to make a personalized burger with your favourite ingredients.
 
 ## Getting Started
 
